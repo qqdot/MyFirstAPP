@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					B40C83841E49E9B600D7F822 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 3H2YBFHZ9L;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,7 +259,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3H2YBFHZ9L;
 				INFOPLIST_FILE = Demo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.clai.Demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -270,7 +273,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3H2YBFHZ9L;
 				INFOPLIST_FILE = Demo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.clai.Demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
